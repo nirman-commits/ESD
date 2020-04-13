@@ -6,6 +6,7 @@ Banana
 Apple
 Watermellon 
 
-
+Mango
+Orange
 
 Thank you
